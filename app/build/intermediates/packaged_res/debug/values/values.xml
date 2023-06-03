@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Type">
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
+    <color name="background_color">#FBFBFD</color>
+    <color name="background_color_50">#B3FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#FF45b6fe</color>
+    <color name="colorAccen">#D81B60</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorDefault">#dcdcdc</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#005748</color>
+    <color name="green">#FF00FF00</color>
+    <color name="grey">#FFeeeeee</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_color_description">#616161</color>
+    <color name="text_color_header">#323232</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SmartAquaWatcher</string>
+    <string name="confpass">Confirm Password</string>
+    <string name="email">Username</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="google_icon">google icon</string>
+    <string name="login">Sign in</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="newpass">New Password</string>
+    <string name="or">OR</string>
+    <string name="password">Password</string>
+    <string name="setpass">Set Password</string>
+    <string name="top_icon">TOP ICON</string>
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/logo</item>
+    </style>
+    <style name="Theme.PiApp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+
+        
+    </style>
+</resources>

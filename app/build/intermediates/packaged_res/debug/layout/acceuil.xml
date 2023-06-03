@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/Phtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="14dp"
+            android:text="TextView"
+            android:textColor="#05E60E"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toTopOf="@+id/turbiditytext"
+            app:layout_constraintStart_toStartOf="@+id/turbiditytext" />
+
+        <TextView
+            android:id="@+id/turbiditytext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:text="TextView"
+            android:textColor="#05E60E"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:paddingTop="10dip"
+        android:paddingBottom="20dip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/menu"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_gravity="top"
+            android:layout_marginLeft="0dp"
+
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/menu" />
+        <ImageView
+            android:id="@+id/user"
+            android:layout_width="120dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/user" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:paddingTop="10dip"
+            android:paddingBottom="0dip"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:text="Hello Ayed"
+                android:textColor="@color/black"
+                android:textSize="30dp"></TextView>
+            <LinearLayout
+                android:orientation="horizontal"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:paddingTop="5dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="ON"
+                    android:textSize="30dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:textColor="@color/green"
+
+                    ></TextView>
+                <LinearLayout
+                    android:orientation="vertical"
+                    xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:paddingTop="5dp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:id="@+id/map"
+                        android:layout_width="80dp"
+                        android:layout_height="50dp"
+                        android:layout_marginRight="100dp"
+
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/map" />
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="Bir el bey"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:textColor="@color/black"
+
+                        ></TextView>
+                </LinearLayout> </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="220dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="10dp"
+        app:cardMaxElevation="12dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:id="@+id/chartTemp"
+        >
+
+        <!--
+        In the above cardview widget
+        cardelevation property will give elevation to your card view
+        card corner radius will provide radius to your card view
+        card background color will give background color to your card view
+        card max elevation will give the cardview maximum elevation
+        card prevent corner overlap will add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.
+        card use compact padding will add padding in API v21+ as well to have the same measurements with previous versions.
+        below are the two widgets imageview and text view we are displaying inside our card view.
+        -->
+        <ImageView
+            android:id="@+id/temperature"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/temperature" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="40dp"
+            android:text="Témperature"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/temp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="15dp"
+            android:text="25 C"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/chartHumidity"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="220dp"
+        app:cardBackgroundColor="@color/grey"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="10dp"
+        app:cardMaxElevation="12dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        >
+
+        <!--
+        In the above cardview widget
+        cardelevation property will give elevation to your card view
+        card corner radius will provide radius to your card view
+        card background color will give background color to your card view
+        card max elevation will give the cardview maximum elevation
+        card prevent corner overlap will add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.
+        card use compact padding will add padding in API v21+ as well to have the same measurements with previous versions.
+        below are the two widgets imageview and text view we are displaying inside our card view.
+        -->
+        <ImageView
+            android:id="@+id/humidte"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/humidity" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="40dp"
+            android:text="Humidité"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/humidity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="15dp"
+            android:text="Off"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/chartTurbidity"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="390dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="10dp"
+        app:cardMaxElevation="12dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <!--
+        In the above cardview widget
+        cardelevation property will give elevation to your card view
+        card corner radius will provide radius to your card view
+        card background color will give background color to your card view
+        card max elevation will give the cardview maximum elevation
+        card prevent corner overlap will add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.
+        card use compact padding will add padding in API v21+ as well to have the same measurements with previous versions.
+        below are the two widgets imageview and text view we are displaying inside our card view.
+        -->
+        <ImageView
+            android:id="@+id/turimage"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/tur" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="40dp"
+            android:text="Turbidity"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/turbidity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="15dp"
+            android:text="18"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/chartPh"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="390dp"
+        android:layout_marginLeft="200dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="10dp"
+        app:cardMaxElevation="12dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <!--
+        In the above cardview widget
+        cardelevation property will give elevation to your card view
+        card corner radius will provide radius to your card view
+        card background color will give background color to your card view
+        card max elevation will give the cardview maximum elevation
+        card prevent corner overlap will add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.
+        card use compact padding will add padding in API v21+ as well to have the same measurements with previous versions.
+        below are the two widgets imageview and text view we are displaying inside our card view.
+        -->
+        <ImageView
+            android:id="@+id/phimage"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ph" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="40dp"
+            android:text="PH"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ph"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="15dp"
+            android:text="7"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+

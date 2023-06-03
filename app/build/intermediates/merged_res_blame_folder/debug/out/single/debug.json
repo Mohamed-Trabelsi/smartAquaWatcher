@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "com.example.pi_app-merged_res-29:/drawable_logoh.jpg.flat",
+        "source": "com.example.pi_app-main-31:/drawable/logoh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_supp.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\supp.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_back_btn2.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\back_btn2.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_useri.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\useri.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_userlist.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\userlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_humidity.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_resetpassword3.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_resetpassword3.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_chart_turbidity.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_chart_turbidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_itembarage.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\itembarage.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_homme.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\homme.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_round_bg.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_item_view.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_barrage.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\barrage.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_admin_user_detail.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\admin_user_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_modif.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\modif.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_chart_ph.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_chart_ph.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_dashboard.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-mdpi_twitter.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-mdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_chart_humidity.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_chart_humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_mod.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\mod.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_back_text.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\back_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_acceuil1.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\acceuil1.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_medal.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\medal.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_admin_accueil.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_admin_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_modifier.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\modifier.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_back.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_node.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\node.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_increase.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\increase.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\font_lato_bold.ttf.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\font\\lato_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_profil.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\profil.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_list_barrage.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\list_barrage.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_list_nodes.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\list_nodes.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\font_lato_black.ttf.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\font\\lato_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_admin_accueil.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\admin_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_utilisateur.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\utilisateur.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_cadenas.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\cadenas.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-hdpi_twitter.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-hdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_person.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_detailuser.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\detailuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_boat.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\boat.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_item_barrage.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\item_barrage.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_appel.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\appel.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-xxhdpi_twitter.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-xxhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_block.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_block.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_wave.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_back_bouton.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\back_bouton.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_round_border.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\round_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_profil_de_lutilisateur.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\profil_de_lutilisateur.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_rounded_bottom.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\rounded_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_temperature.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_transport_ing_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\transport_ing_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_condu.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\condu.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_resetpassword.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_resetpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_back_welcome.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\back_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_o2.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\o2.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_b.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_email.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_image_classifier.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_image_classifier.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_stat.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_stat.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_lock.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_map.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_nodelist.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\nodelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_acceuil.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\acceuil.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-xxxhdpi_twitter.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-xxxhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_dashbord_bacground.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\dashbord_bacground.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_shopping_ing_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\shopping_ing_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_log.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\log.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_itemusernot.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\itemusernot.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_admin_user_una_detail.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_admin_user_una_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_itemuser.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\itemuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_code.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_sign.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\sign.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_account.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_calendar.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_a.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ph.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ph.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_user.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-ldpi_twitter.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-ldpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_tur.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\tur.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_listuser_admin.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_listuser_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_chart_temperature.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_chart_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_barrage.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\barrage.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_ensor.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_ensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_back_btn1.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\back_btn1.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_ceck.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_ceck.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_login1.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_login1.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_water.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_water.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_bills_img_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\bills_img_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_general_img_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\general_img_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-xhdpi_twitter.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-xhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_listbarage.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_listbarage.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_mail.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_image.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_back_spinner.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\back_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_item_not_approved.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\item_not_approved.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\layout_activity_list_user_not_approved.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\layout\\activity_list_user_not_approved.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-merged_res-29:\\drawable_telephone.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.5\\com.example.pi_app-main-31:\\drawable\\telephone.png"
+    }
+]
